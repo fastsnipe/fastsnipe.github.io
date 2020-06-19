@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 20rem;
+}
+.button {
+  border: 0.2rem solid #c261ff;
+}
+.discord-button {
+  background-color: #7289da;
+  border: 0.2rem solid #859fff;
+}
+.github-button {
+  background-color: #0366d6;
+  border: 0.2rem solid #0378ff;
+}
